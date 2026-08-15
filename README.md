@@ -1,24 +1,30 @@
 # eSuschi
 
-**Building professional applications, websites, AI-powered tools and modular systems.**
+**Professional software & product development**  
+Applications · Websites · AI tools · Modular systems
 
-I design and ship high-quality software with strong focus on:
-- Advanced business websites & landing pages
-- Full-stack applications and desktop tools
-- AI-assisted workflows and intelligent systems
-- Clean architecture, modular engines and production-ready code
+I build production-ready software with strong emphasis on architecture, clarity and real-world usefulness.
 
-### Current focus
-- Professional web products and SaaS-style tools
-- Browser games and interactive experiences
-- Local AI Meeting / presentation assistants
-- Systematic skill-based development pipelines
+### Core areas
+- Advanced business websites and high-converting landing pages
+- Full-stack applications and local desktop tools
+- AI-assisted workflows, meeting assistants and intelligent systems
+- Clean modular architecture and long-term maintainable codebases
 
-### How I work
-I combine deep technical architecture with practical product thinking. Every project goes through clear stages: requirements → architecture → implementation → audit → release.
+### Working approach
+Every serious project follows a disciplined pipeline:
+
+**Requirements → Architecture → Implementation → Audit → Release**
+
+I prioritise correctness, performance, professional appearance and zero unnecessary complexity.
+
+### Repositories
+- [`website-starters`](https://github.com/eSuschi/website-starters) — professional website & landing page foundations
+- [`app-boilerplates`](https://github.com/eSuschi/app-boilerplates) — application and modular system starters
+- [`project-templates`](https://github.com/eSuschi/project-templates) — shared standards, workflows and conventions
+
+More focused project repositories will be added as work progresses.
 
 ---
 
-**GitHub is used as the source of truth for code, experiments and project history.**
-
-Feel free to explore the repositories — more projects will appear here regularly.
+*Source of truth for code, experiments and project history.*
