@@ -12,18 +12,22 @@ I build production-ready software with strong emphasis on architecture, clarity 
 - Clean modular architecture and long-term maintainable codebases
 
 ### Working approach
-Every serious project follows a disciplined pipeline:
+Every serious project follows a disciplined multi-skill pipeline:
 
-**Requirements → Architecture → Implementation → Audit → Release**
+**Requirements → Impact Architecture → Domain Specialists → Code Review → Final Audit → Release Gate**
 
-I prioritise correctness, performance, professional appearance and zero unnecessary complexity.
+Orchestrated end-to-end. Quality is non-negotiable.
 
-### Repositories
-- [`website-starters`](https://github.com/eSuschi/website-starters) — professional website & landing page foundations
-- [`app-boilerplates`](https://github.com/eSuschi/app-boilerplates) — application and modular system starters
-- [`project-templates`](https://github.com/eSuschi/project-templates) — shared standards, workflows and conventions
+### System & Repositories
 
-More focused project repositories will be added as work progresses.
+| Repository | Purpose |
+|------------|---------|
+| [**skill-system**](https://github.com/eSuschi/skill-system) | Full multi-skill development system & pipeline documentation |
+| [website-starters](https://github.com/eSuschi/website-starters) | Professional website & landing page foundations |
+| [modular-engine](https://github.com/eSuschi/modular-engine) | Advanced modular 2D engine architecture |
+| [ai-meeting-buddy](https://github.com/eSuschi/ai-meeting-buddy) | Local AI co-pilot for live presentations |
+| [app-boilerplates](https://github.com/eSuschi/app-boilerplates) | Application and system starters |
+| [project-templates](https://github.com/eSuschi/project-templates) | Shared standards, CI and conventions |
 
 ---
 
