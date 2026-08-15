@@ -1,34 +1,31 @@
 # eSuschi
 
-**Professional software & product development**  
+**Professional software & product development at the highest standard**  
 Applications · Websites · AI tools · Modular systems
 
-I build production-ready software with strong emphasis on architecture, clarity and real-world usefulness.
+I build production-ready software using a disciplined multi-skill pipeline.
 
-### Core areas
-- Advanced business websites and high-converting landing pages
-- Full-stack applications and local desktop tools
-- AI-assisted workflows, meeting assistants and intelligent systems
-- Clean modular architecture and long-term maintainable codebases
+### Working System
 
-### Working approach
-Every serious project follows a disciplined multi-skill pipeline:
+Every serious project follows a strict, orchestrated process:
 
-**Requirements → Impact Architecture → Domain Specialists → Code Review → Final Audit → Release Gate**
+**Requirements Clarifier → Product Impact Architect → Domain Specialists → Principal Code Review → Final Code Auditor → Release Gate**
 
-Orchestrated end-to-end. Quality is non-negotiable.
+Quality is non-negotiable. Nothing ships without passing the Release Gate.
 
-### System & Repositories
+### Core Repositories
 
-| Repository | Purpose |
-|------------|---------|
-| [**skill-system**](https://github.com/eSuschi/skill-system) | Full multi-skill development system & pipeline documentation |
-| [website-starters](https://github.com/eSuschi/website-starters) | Professional website & landing page foundations |
-| [modular-engine](https://github.com/eSuschi/modular-engine) | Advanced modular 2D engine architecture |
+| Repository | Role |
+|------------|------|
+| [**skill-system**](https://github.com/eSuschi/skill-system) | Operational multi-skill pipeline, checklists & standards |
+| [website-starters](https://github.com/eSuschi/website-starters) | Professional websites & landing pages |
+| [modular-engine](https://github.com/eSuschi/modular-engine) | Advanced modular 2D engine foundation |
 | [ai-meeting-buddy](https://github.com/eSuschi/ai-meeting-buddy) | Local AI co-pilot for live presentations |
-| [app-boilerplates](https://github.com/eSuschi/app-boilerplates) | Application and system starters |
-| [project-templates](https://github.com/eSuschi/project-templates) | Shared standards, CI and conventions |
+| [app-boilerplates](https://github.com/eSuschi/app-boilerplates) | Application & system starters |
+| [project-templates](https://github.com/eSuschi/project-templates) | Shared CI, issue/PR templates & conventions |
+
+GitHub is the single source of truth for all meaningful work.
 
 ---
 
-*Source of truth for code, experiments and project history.*
+*Built for real projects. Ready for the highest level of collaboration.*
