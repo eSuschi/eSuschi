@@ -1,7 +1,7 @@
 # eSuschi
 
 **Professional software & product development at the highest standard**  
-Applications · Websites · AI tools · Modular systems
+Applications · Websites · AI tools · Modular systems · Office companions
 
 I build production-ready software using a disciplined multi-skill pipeline.
 
@@ -20,6 +20,7 @@ Quality is non-negotiable. Nothing ships without passing the Release Gate.
 | [**skill-system**](https://github.com/eSuschi/skill-system) | Operational multi-skill pipeline, checklists & standards |
 | [website-starters](https://github.com/eSuschi/website-starters) | Professional websites & landing pages |
 | [modular-engine](https://github.com/eSuschi/modular-engine) | Advanced modular 2D engine foundation |
+| [sable-engine](https://github.com/eSuschi/sable-engine) | Advanced Modular 2D Engine + Studio |
 | [ai-meeting-buddy](https://github.com/eSuschi/ai-meeting-buddy) | Local AI co-pilot for live presentations |
 | [app-boilerplates](https://github.com/eSuschi/app-boilerplates) | Application & system starters |
 | [project-templates](https://github.com/eSuschi/project-templates) | Shared CI, issue/PR templates & conventions |
