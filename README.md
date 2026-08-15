@@ -1,16 +1,24 @@
-## Hi there 👋
+# eSuschi
 
-<!--
-**eSuschi/eSuschi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Building professional applications, websites, AI-powered tools and modular systems.**
 
-Here are some ideas to get you started:
+I design and ship high-quality software with strong focus on:
+- Advanced business websites & landing pages
+- Full-stack applications and desktop tools
+- AI-assisted workflows and intelligent systems
+- Clean architecture, modular engines and production-ready code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current focus
+- Professional web products and SaaS-style tools
+- Browser games and interactive experiences
+- Local AI Meeting / presentation assistants
+- Systematic skill-based development pipelines
+
+### How I work
+I combine deep technical architecture with practical product thinking. Every project goes through clear stages: requirements → architecture → implementation → audit → release.
+
+---
+
+**GitHub is used as the source of truth for code, experiments and project history.**
+
+Feel free to explore the repositories — more projects will appear here regularly.
